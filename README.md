@@ -1,5 +1,6 @@
 # meal_app
 
+a simple Meal App.
 My 1st real complet project with Flutter
 
 ## Getting Started
